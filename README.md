@@ -1,12 +1,13 @@
-Classificação de músicas do Spotify 🎵.
-Sobre a base de dados:🎲
-Este é um conjunto de dados de faixas do Spotify em uma variedade de 125 gêneros diferentes. Cada faixa possui alguns recursos de áudio associados a ela.
+# Classificação de Músicas do Spotify 🎵
 
-Uso da base: 🛠️
-O conjunto de dados pode ser usado para:
+## Sobre a Base de Dados 🎲
+Este projeto utiliza um conjunto de dados de faixas do Spotify que abrange 125 gêneros diferentes. Cada faixa vem acompanhada de diversos recursos de áudio que podem ser explorados para análise e modelagem.
 
-Construindo um sistema de recomendação com base em alguma entrada ou preferência do usuário
-Finalidades de classificação com base em recursos de áudio e gêneros disponíveis
-Qualquer outro aplicativo que você possa imaginar. Sinta-se à vontade para discutir!
-Objetivo do nosso projeto:🎯
-Este notebook contempla a criação de um modelo preditivo para classificar músicas lentas e agitadas utilizando a base de dados "Spotify Tracks Dataset" do Kaggle.
+## Uso da Base 🛠️
+Este conjunto de dados pode ser aplicado em várias áreas, como:
+- **Construção de Sistemas de Recomendação**: Desenvolver um sistema que sugira músicas com base nas preferências do usuário.
+- **Classificação**: Modelos que classifiquem músicas com base nos recursos de áudio e nos gêneros.
+
+## Objetivo do Projeto 🎯
+O foco deste projeto é criar um modelo preditivo para classificar músicas como "lentas" ou "agitadas" utilizando o "Spotify Tracks Dataset" do Kaggle. 
+Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
